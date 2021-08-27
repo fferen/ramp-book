@@ -9,7 +9,7 @@ A short and sweet textbook on Einstein's theory of relativity.
 
 ### Why another relativity textbook?
 
-As an eager sophomore in university, I tried to teach myself general relativity from the usual textbooks. I found them long-winded, hard to understand, and filled with excessive formalism surrounding manifolds and tensors. Eventually, I came across Paul Dirac's _General Theory of Relativity_, a 70-page masterpiece that develops the theory simply and logically. This gave me the foundation to fill out my knowledge using more standard textbooks. I came to realize that relativity only seems difficult due to a few subtle concepts that are not carefully explained in any one place. So, I decided to do it myself. It took several months longer than expected, but here is the result.
+As an eager sophomore in university, I tried to teach myself general relativity from the usual textbooks. I found them long-winded, hard to understand, and filled with excessive formalism surrounding manifolds and tensors. Eventually, I came across Paul Dirac's _General Theory of Relativity_, a 70-page masterpiece that develops the theory simply and logically. This gave me the foundation to fill out my knowledge using more standard textbooks. I came to realize that relativity only seems difficult due to a few subtle concepts that are not concisely explained in any one place. So, I decided to do it myself. It took several months longer than expected, but here is the result.
 
 Some features include:
 
