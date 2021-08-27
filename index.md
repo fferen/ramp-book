@@ -13,7 +13,7 @@ As an eager sophomore in university, I tried to teach myself general relativity 
 
 Some features include:
 
-1. **Concise**: Unlike standard textbooks, it is only about 100 pages long.
+1. **Concise**: Only about 100 pages long.
 2. **Deep**: Unlike a popular physics book, we will dive into the math. Keep a pencil and paper handy.
 3. **Broad**: In addition to special and general relativity, it covers Lagrangian mechanics, a bit of electromagnetism, and an introduction to cosmology.
 4. **Pedagogical**: Clear explanations with many figures and exercises. Exercises are marked by difficulty with 1-3 stars (\*). I have tried to find the most intuitive way to understand each concept, and I anticipate common points of confusion based on my own experience.
