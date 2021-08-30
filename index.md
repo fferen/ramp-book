@@ -24,4 +24,4 @@ Vector calculus and classical mechanics. Basically, a standard freshman or sopho
 
 ---
 
-_Contact me at kyh@berkeley.edu. Also check out my [physics blog](http://diffxweyl.wordpress.com)._
+_Contact me at [kyh@berkeley.edu](mailto:kyh@berkeley.edu). Also check out my [physics blog](http://diffxweyl.wordpress.com)._
