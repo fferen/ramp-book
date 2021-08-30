@@ -9,7 +9,7 @@ A short and sweet textbook on Einstein's theory of relativity, and more.
 
 ## Why another relativity textbook?
 
-This book is the result of my long journey to learn relativity, from both university courses and self-study. As my understanding evolved over the years, I eventually felt that I could explain it better than other sources, in fewer words. It took a few months longer than expected, but here it is.
+This book is the result of my journey to learn relativity, from both university courses and self-study. As my understanding evolved over the years, I eventually felt that I could explain it better than other sources, in fewer words. It took a few months longer than expected, but here it is.
 
 ### Features
 
