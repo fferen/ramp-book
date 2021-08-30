@@ -22,6 +22,8 @@ Learning relativity was a long journey for me. From college courses to self-stud
 
 Vector calculus and classical mechanics. Basically, a standard freshman or sophomore physics curriculum in the US. Some knowledge of linear algebra and electromagnetism will also help, although Appendix A develops the necessary linear algebra.
 
+I will write an exercise solutions manual if there is enough interest.
+
 ---
 
 _Contact me at [kyh@berkeley.edu](mailto:kyh@berkeley.edu). Also check out my [physics blog](http://diffxweyl.wordpress.com)._
