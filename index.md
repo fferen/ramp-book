@@ -5,7 +5,7 @@ title: Relativity: A Modern Primer
 
 A short and sweet textbook on Einstein's theory of relativity, and more.
 
-**Download it [here](./Relativity__A_Modern_Primer.pdf).**
+**Download it [here](./Relativity__A_Modern_Primer_v2.pdf).** (Previous versions are [here](./versions.html).)
 
 ## Why another relativity textbook?
 
